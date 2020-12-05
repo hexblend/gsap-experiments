@@ -10,15 +10,15 @@ body {
 	justify-content: center;
 	align-items: center;
 	&.section1 {
-		background: $black;
-		color: $white;
-	}
-	&.section2 {
 		background: $yellow;
 		color: $black;
 	}
+	&.section2 {
+		background: $lightBlue;
+		color: $black;
+	}
 	&.section3 {
-		background: $black;
+		background: $darkBlue;
 		color: $white;
 	}
 }
